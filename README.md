@@ -57,7 +57,7 @@ A digital marketplace that connects **Farmers, Buyers, and Logistics** with:
 - **Frontend:** Keerti & Aryan  
 - **Backend:** Anshul 
 - **Blockchain:** Mohit  
-- **Integrator (Lead):** Ayush  
+- **Integrator:** Ayush  
 - **Presentation & QA:** Aman  
 
 ---
